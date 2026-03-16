@@ -49,17 +49,6 @@ Construire un modèle de machine learning capable de **prédire le salaire annue
 
 → **Meilleur modèle** : Gradient Boosting (souvent)
 
-## Structure du projet
-
-job-salary-prediction/
-├── data/
-│   └── job_salary_prediction_dataset.csv
-├── notebook/
-│   └── data_exploration.ipynb          # Analyse exploratoire
-├── script.py                           # Préprocessing + modélisation + sauvegarde
-├── model/
-│   └── best_model.pkl                  # Modèle + mappings sauvegardés
-├── README.md
 
 ## Comment utiliser le modèle (inférence)
 
