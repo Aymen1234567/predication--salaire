@@ -3,7 +3,7 @@
 Prédiction du salaire à partir des caractéristiques professionnelles  
 (Expérience, formation, compétences, secteur, taille d'entreprise, remote, etc.)
 
-![Salar
+
 
 ## 🎯 Objectif du projet
 
